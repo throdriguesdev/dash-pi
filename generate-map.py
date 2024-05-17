@@ -102,4 +102,4 @@ def update_schools_by_state(selected_option):
     )
     return fig
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server(debug=False)
